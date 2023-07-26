@@ -24,7 +24,7 @@ const entries = [
 const groupMode = false;
 
 // Text above the search box
-const welcomeText = "Oga/Madam, Welcome To My Shop!";
+const welcomeText = "Scroll Down!";
 
 
 //#############################################################################
