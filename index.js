@@ -3,7 +3,7 @@ const entries = [
     {
         group: "Social media",
         items: [
-            { name: "CHECK CATALOG!", url: "https://www.paystack.com/commerce", icon: "fa fa-mobile fa-beat" },
+            { name: "CHECK CATALOG!", url: "https://paystack.shop/akpejovosmagic", icon: "fa fa-mobile fa-beat" },
             { name: "Email Us", url: "mailto:support@akpejovo.com", icon: "fa fa-envelope" },
             { name: "ON ROUTE!", url: "https://www.dhl.com/ng-en/home/tracking.html", icon: "fa fa-truck" },
             { name: "REVIEWS", url: "https://www.trustpilot.com/review/akpejovo.com", icon: "fa fa-star" },
@@ -13,9 +13,9 @@ const entries = [
         items: [
             { name: "Instagram", url: "hhttps://www.instagram.com/akpejovos_magic", icon: "fab fa-instagram" },
             { name: "TikTok", url: "https://www.tiktok.com/@akpejovosmagic", icon: "fab fa-tiktok" },
-            { name: "ORDER NOW!", url: "https://www.paystack.com/commerce", icon: "fa fa-handshake" },
+            { name: "ORDER NOW!", url: "https://paystack.shop/akpejovosmagic", icon: "fa fa-handshake" },
             { name: "Whatsapp", url: "https://wa.me/2348028177365", icon: "fab fa-whatsapp" },
-            { name: "DELIVERED!", url: "https://www.paystack.com/commerce", icon: "fa fa-check" },
+            { name: "DELIVERED!", url: "https://paystack.shop/akpejovosmagic", icon: "fa fa-check" },
         ]
     },
 ];
