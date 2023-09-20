@@ -6,7 +6,7 @@ const entries = [
             { name: "BUY PHONES!", url: "https://paystack.shop/akpejovosmagic", icon: "fa fa-mobile fa-beat" },
             { name: "Email Us", url: "mailto:support@akpejovo.com", icon: "fa fa-envelope" },
             { name: "ON ROUTE!", url: "https://www.dhl.com/ng-en/home/tracking.html", icon: "fa fa-truck" },
-            { name: name: "BUY/SEW CLOTHES", url: "https://paystack.shop/akpejovos-magic-clothes", icon: "fa fa-user-tie" },
+            { name: "BUY/SEW CLOTHES", url: "https://paystack.shop/akpejovos-magic-clothes", icon: "fa fa-user-tie" },
         ]
     }, {
         group: "Utilities",
