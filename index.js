@@ -15,7 +15,7 @@ const entries = [
             { name: "TikTok", url: "https://www.tiktok.com/@akpejovosmagic", icon: "fab fa-tiktok" },
             { name: "BUY CARS", url: "https://paystack.shop/akpejovos-magic-cars", icon: "fa fa-car" },
             { name: "Whatsapp", url: "https://wa.me/2348028177365", icon: "fab fa-whatsapp" },
-            { name: "BUY/SEW CLOTHES", url: "https://paystack.shop/akpejovos-magic-clothes", icon: "fa fa-shirt" },
+            { name: "BUY/SEW CLOTHES", url: "https://paystack.shop/akpejovos-magic-clothes", icon: "fab fa-shirt" },
         ]
     },
 ];
