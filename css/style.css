@@ -470,6 +470,7 @@ ul.btn li:last-child {
      align-items: center;
      justify-content: center;
      color: #000;
+     margin-bottom: 120px;
 }
 
 #banner1 .carousel-control-next i:focus,
@@ -557,6 +558,10 @@ ul.btn li:last-child {
      padding: 0 40px;
 }
 
+.block_img{
+     display: block;
+}
+
 .box_text {
      background: #fff;
      text-align: center;
@@ -569,6 +574,7 @@ ul.btn li:last-child {
      color: #121010;
      font-size: 18px;
      font-weight: 600;
+     cursor: pointer;
 }
 
 .box_text p {
