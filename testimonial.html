@@ -257,16 +257,62 @@
                   </div>
                </div>
             </div>
-            <div class="copyright">
-               <div class="container">
-                  <div class="row">
-                     <div class="col-md-12">
-                        <p>&#169 Copyright 2023. All Right, Reserved By <a href="https://akpejovo.com/"> Akpejovo</a></p>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
+<!-- ==================== Start NexusCrew-Copyright Watermark ==================== -->
+<style>
+
+   .NC-Copyright1{
+   margin: 0 auto; /* Center the line horizontally */
+   width: 500px; /* Adjust the width as needed */
+   border-bottom: 0.5px solid #007bff; /* Adjust the color as needed */
+   margin-bottom: 7px; /* Adjust the margin as needed */
+   }
+
+   .NC-Copyright1, .NC-Copyright2  {
+   display: block;
+   row-gap: 150px;
+   text-align: center;
+   text-transform: uppercase;
+   padding-bottom: 5px;
+   padding-top: 5px;
+   border-top: 1px solid var(--border-color);
+   font-weight: 500;
+   text-align: center;
+}
+
+   .emoji {
+       font-size: 22px;
+   }
+
+   .copyright-background {
+       background-color: rgb(12, 12, 12);
+       font-size: large;
+       margin-top: 30px;
+       font-weight: bolder;
+       text-align: center;
+   }
+       </style>
+
+<script>
+   document.addEventListener("DOMContentLoaded", function() {
+       // Get the current year
+       const currentYear = new Date().getFullYear();
+
+       // Find the element with the id "currentYear" and update its content
+       const yearElement = document.getElementById("currentYear");
+       if (yearElement) {
+           yearElement.textContent = currentYear;
+       }
+   });
+</script>
+
+
+   <div class="copyright-background">
+   <p><span class="NC-Copyright2">&copy; <span id="currentYear"></span> <a href="https://www.Akpejovo.com" target="_blank" style="color: white;text-transform: none">Akpejovo.Com, </a> All rights reserved <span class="emoji">⚖️</span></p>
+   <p class="NC-Copyright2">Designed & Built By
+       <a rel="sponsored" href="https://nexuscrew.io/" target="_blank" style="color: white; text-transform: none;">NexusCrew.io 🚀</a></p>
+   </div>
+
+<!-- ==================== End NexusCrew-Copyright Watermark ==================== -->
       </footer>
       <!-- end footer -->
       <!-- Javascript files-->
